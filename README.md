@@ -1,3 +1,3 @@
 # CSS-Project
-These are my few projects which is made by me.
+These are my few projects.
 Author-Mohit Kumar
